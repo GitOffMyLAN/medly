@@ -4,3 +4,8 @@
 .mainTitle{
 	font-size: 60px;
 }
+.fileOpen{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
